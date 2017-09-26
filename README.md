@@ -14,6 +14,8 @@
 - [Effective Java](https://book.douban.com/subject/3360807/)
 - [Head First 设计模式](https://book.douban.com/subject/2243615/)
 - [你必须知道的261个Java语言问题](https://book.douban.com/subject/4137365/)
+- [Spring实战](https://book.douban.com/subject/26767354/)
+- [Java 8实战](https://book.douban.com/subject/26772632/)
 
 #### Python
 - [Python Cookbook](https://book.douban.com/subject/4828875/)
