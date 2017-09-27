@@ -1,9 +1,19 @@
 ## 要读的书籍
 
-- 算法书籍
-- 三国演义
-- 简爱
-- 三体
+#### 技术
+- [Java编程思想](https://book.douban.com/subject/2130190/)
+- [Java核心技术·卷1：基础知识](https://book.douban.com/subject/25762168/)
+- [Java核心技术·卷2：高级特性](https://book.douban.com/subject/25841326/)
+-[JAVA并发编程实践](https://book.douban.com/subject/2148132/)
+
+#### 算法
+- [C语言程序实例大全]()
+- [妙趣横生的算法](https://book.douban.com/subject/4710825/)
+
+#### 人文
+- [三国演义](https://book.douban.com/subject/1483894/)
+- [简爱](https://book.douban.com/subject/1141406/)
+- [三体](https://book.douban.com/subject/26427702/)
 
 ## 读过的书籍
 
@@ -40,12 +50,12 @@
 - [小王子](https://book.douban.com/subject/1084336/)
 
 #### 视频教程
-- 传智扫地僧，C++视频
-- 传智扫地僧，Java视频
-- 任小龙，421集Java视频
-- 廖雪峰，Python3博客
+- [传智扫地僧，C++视频]()
+- [传智扫地僧，Java视频]()
+- [任小龙，421集Java视频]()
+- [廖雪峰，Python3博客]()
 - 
-- 莫凡，tensorflow教程
-- 吴恩达113集机器学习视频
-- sentdex Youtube-ML 视频教程
-- sentdex Youtube-NLTK 视频教程
+- [莫凡，tensorflow教程]()
+- [吴恩达113集机器学习视频]()
+- [sentdex Youtube-ML 视频教程]()
+- [sentdex Youtube-NLTK 视频教程]()
