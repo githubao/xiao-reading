@@ -1,55 +1,57 @@
+# 读书
+
 ## 要读的书籍
 
-#### 技术
+### 技术
 - [Java编程思想](https://book.douban.com/subject/2130190/)
 - [Java核心技术·卷1：基础知识](https://book.douban.com/subject/25762168/)
 - [Java核心技术·卷2：高级特性](https://book.douban.com/subject/25841326/)
 -[JAVA并发编程实践](https://book.douban.com/subject/2148132/)
 
-#### 算法
+### 算法
 - [C语言程序实例大全]()
 - [妙趣横生的算法](https://book.douban.com/subject/4710825/)
 
-#### 人文
+### 人文
 - [三国演义](https://book.douban.com/subject/1483894/)
 - [简爱](https://book.douban.com/subject/1141406/)
 - [三体](https://book.douban.com/subject/26427702/)
 
 ## 读过的书籍
 
-#### C++
+### C++
 - [C++ Primer](https://book.douban.com/subject/1767741/)
 
-#### Java
+### Java
 - [Effective Java](https://book.douban.com/subject/3360807/)
 - [Head First 设计模式](https://book.douban.com/subject/2243615/)
 - [你必须知道的261个Java语言问题](https://book.douban.com/subject/4137365/)
 - [Spring实战](https://book.douban.com/subject/26767354/)
 - [Java 8实战](https://book.douban.com/subject/26772632/)
 
-#### Python
+### Python
 - [Python Cookbook](https://book.douban.com/subject/4828875/)
 - [Fluent Python](https://book.douban.com/subject/26278021/)
 - [编写高质量代码：改善Python程序的91个建议](https://book.douban.com/subject/25910544/)
 
-#### ML
+### ML
 - [TensorFlow实战](https://book.douban.com/subject/26974266/)
 
-#### 其他语言
+### 其他语言
 - [松本行弘的程序世界](https://book.douban.com/subject/6756090/)
 
-#### 通用技术
+### 通用技术
 - [程序员修炼之道](https://book.douban.com/subject/5387402/)
 - [Linux/Unix设计思想](https://book.douban.com/subject/7564417/)
 
-#### 文学
+### 文学
 - [围城](https://book.douban.com/subject/1008145/)
 - [平凡的世界](https://book.douban.com/subject/10517238/)
 - [红楼梦](https://book.douban.com/subject/1007305/)
 - [明朝那些事儿](https://book.douban.com/subject/7163250/)
 - [小王子](https://book.douban.com/subject/1084336/)
 
-#### 视频教程
+## 视频教程
 - [传智扫地僧，C++视频]()
 - [传智扫地僧，Java视频]()
 - [任小龙，421集Java视频]()
