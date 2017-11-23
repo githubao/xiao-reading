@@ -3,10 +3,7 @@
 ## 要读的书籍
 
 ### 技术
-- [Java编程思想](https://book.douban.com/subject/2130190/)
-- [Java核心技术·卷1：基础知识](https://book.douban.com/subject/25762168/)
-- [Java核心技术·卷2：高级特性](https://book.douban.com/subject/25841326/)
--[JAVA并发编程实践](https://book.douban.com/subject/2148132/)
+- pass
 
 ### 算法
 - [C语言程序实例大全]()
@@ -14,8 +11,9 @@
 
 ### 人文
 - [三国演义](https://book.douban.com/subject/1483894/)
-- [简爱](https://book.douban.com/subject/1141406/)
 - [三体](https://book.douban.com/subject/26427702/)
+- [简爱](https://book.douban.com/subject/1141406/)
+
 
 ## 读过的书籍
 
@@ -43,6 +41,7 @@
 ### 通用技术
 - [程序员修炼之道](https://book.douban.com/subject/5387402/)
 - [Linux/Unix设计思想](https://book.douban.com/subject/7564417/)
+- [重构:改善既有代码的设计](https://book.douban.com/subject/1229923/)
 
 ### 文学
 - [围城](https://book.douban.com/subject/1008145/)
