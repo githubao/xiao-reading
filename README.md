@@ -3,7 +3,20 @@
 ## 要读的书籍
 
 ### 技术
-- pass
+- 疯狂Java讲义
+
+- Python 3.5从零开始学
+- 利用Python进行数据分析
+- Python数据分析与挖掘实战
+
+- Spring Boot实战
+- Spring Boot 2精髓：从构建小系统到架构分布式大系统
+- Spring Cloud微服务实战
+
+- 机器学习实战
+- 大数据之路 阿里巴巴大数据实践
+
+- Linux就该这么学
 
 ### 算法
 - [C语言程序实例大全]()
@@ -32,7 +45,7 @@
 - [Fluent Python](https://book.douban.com/subject/26278021/)
 - [编写高质量代码：改善Python程序的91个建议](https://book.douban.com/subject/25910544/)
 
-### ML
+### Machine Learning
 - [TensorFlow实战](https://book.douban.com/subject/26974266/)
 
 ### 其他语言
