@@ -3,23 +3,31 @@
 ## 要读的书籍
 
 ### 编程语言
-- [Go语言实战]()
-- [Go程序设计语言]()
+- [Go程序设计语言](https://book.douban.com/subject/27044219/)
 
 ### 机器学习
-- [Python机器学习基础教程]()
-- [Python机器学习实践指南]()
-- [Python数据科学手册]()
+- [Python数据科学手册](https://book.douban.com/subject/27667378/)
+- [Python机器学习基础教程](https://book.douban.com/subject/30147778/)
+- [Python机器学习实践指南](https://book.douban.com/subject/27073447/)
+- [深度学习之tensorflow-入门原理与进阶实战](https://book.douban.com/subject/30147782/)
+- [数据挖掘概念与技术](https://book.douban.com/subject/11542972/)
 
 ### 算法
-- [C语言程序实例大全]()
+- [大话数据结构](https://book.douban.com/subject/6424904/)
 - [妙趣横生的算法](https://book.douban.com/subject/4710825/)
+
+### 大数据
+- [大数据架构详解-从数据获取到深度学习](https://book.douban.com/subject/26902173/)
+- [大数据之路-阿里巴巴大数据实战](https://book.douban.com/subject/27074564/)
 
 ### 人文
 - [三国演义](https://book.douban.com/subject/1483894/)
 - [三体](https://book.douban.com/subject/26427702/)
 - [简爱](https://book.douban.com/subject/1141406/)
 
+### 其他
+- [hbase权威指南]()
+- [hive编程指南]()
 
 ## 读过的书籍
 
@@ -40,6 +48,9 @@
 - [Python Cookbook](https://book.douban.com/subject/4828875/)
 - [Fluent Python](https://book.douban.com/subject/26278021/)
 - [编写高质量代码：改善Python程序的91个建议](https://book.douban.com/subject/25910544/)
+
+#### Go
+- [Go语言实战](https://book.douban.com/subject/27015617/)
 
 #### Ruby
 - [松本行弘的程序世界](https://book.douban.com/subject/6756090/)
