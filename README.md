@@ -5,15 +5,9 @@
 ## 读书计划
 
 ### 优先读
-1. [倾城之恋](https://book.douban.com/subject/1090043/)
-1. [天才在左 疯子在右](https://book.douban.com/subject/4242172/)
-1. [不能承受的生命之轻](https://book.douban.com/subject/1017143/)
-1. [雪国](https://book.douban.com/subject/1069059/)
-1. [妙趣横生的算法](https://book.douban.com/subject/4710825/)
-1. [大话数据结构](https://book.douban.com/subject/6424904/)
-1. [全栈应用开发：精益实践](https://book.douban.com/subject/27044427/)
-1. [精通Git](https://book.douban.com/subject/27133267/)
 1. [影响力](https://book.douban.com/subject/1786387/)
+1. [妙趣横生的算法](https://book.douban.com/subject/4710825/)
+1. [倾城之恋](https://book.douban.com/subject/1090043/)
 
 ### 人文
 1. [备选书单](https://www.amazon.cn/b?ie=UTF8&node=1536586071)
@@ -36,9 +30,11 @@
 1. [1984](https://book.douban.com/subject/4820710/)
 1. [白夜行](https://book.douban.com/subject/10554308/)
 1. [茶馆](https://book.douban.com/subject/1036613/)
+1. [天才在左 疯子在右](https://book.douban.com/subject/4242172/)
+1. [不能承受的生命之轻](https://book.douban.com/subject/1017143/)
+1. [雪国](https://book.douban.com/subject/1069059/)
 
 ### 编程语言
-1. [Go程序设计语言](https://book.douban.com/subject/27044219/)
 1. [用Go网络编程](https://books.studygolang.com/NPWG_zh/)
 1. [Go in practice](https://book.douban.com/subject/26345890/)
 1. [Go语言web编程](https://book.douban.com/subject/26340005/)
@@ -51,6 +47,7 @@
 1. [数据挖掘概念与技术](https://book.douban.com/subject/11542972/)
 1. [大数据架构详解-从数据获取到深度学习](https://book.douban.com/subject/26902173/)
 1. [大数据之路-阿里巴巴大数据实战](https://book.douban.com/subject/27074564/)
+1. [大话数据结构](https://book.douban.com/subject/6424904/)
 
 ## 已读
 
@@ -88,6 +85,8 @@
 1. [程序员修炼之道](https://book.douban.com/subject/5387402/)
 1. [Linux/Unix设计思想](https://book.douban.com/subject/7564417/)
 1. [Linux从入门到精通](https://book.douban.com/subject/4189498/)
+1. [精通Git](https://book.douban.com/subject/27133267/)
+1. [全栈应用开发：精益实践](https://book.douban.com/subject/27044427/)
 
 ### 视频
 1. [传智扫地僧，C++视频]()
